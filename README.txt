@@ -9,7 +9,7 @@
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/byte-invaders.git
+   git clone https://github.com/JcMattus/Lab-Natty-Or-Not
    ```
 2. Entre na pasta do projeto:
 
